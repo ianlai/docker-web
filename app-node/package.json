@@ -5,7 +5,7 @@
   "author": "Ian Lai <ian.explore.world@gmail.com>",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node src/server.js"
   },
   "dependencies": {
     "express": "^4.16.1"
